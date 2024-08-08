@@ -7,7 +7,7 @@ st.set_page_config(page_title='PDF Merger App', page_icon=':page_facing_up:')
 
 st.title('📄 PDF Merger App')
 st.markdown("""
-Combine multiple PDF files into a single document with ease. Simply Upload the PDFs you wish to merge, and then click the 'Download Merged PDF' button to get your combined document.
+Combine multiple PDF files into a single document with ease. Simply Upload the PDFs you wish to merge, and then click the 'Download Merged PDF' button to get your combined document. Its not Perfect though so feel free to make it better.
 """)
 
 
