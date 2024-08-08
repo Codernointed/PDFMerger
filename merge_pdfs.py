@@ -49,6 +49,7 @@ with st.expander("About This App"):
     **Developer**: Paul Botchwey  
     **Purpose**: This tool was created to simplify document management and enhance your productivity.  
     **Open Source**: Feel free to contribute, suggest improvements, or provide feedback. Your contributions are highly valued!
+    **Insights**: Emmanuuel Kissi Addo, Christopher Enimil, Ernestina, HE. Ansah Gyan.          
     **License**: MIT License - [Learn more](https://opensource.org/licenses/MIT)
     """)
 
